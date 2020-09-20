@@ -78,6 +78,7 @@
 	background-size: cover;
 	min-height: 100vh;
 	position: relative;
+	max-width: 100%;
 }
 .home-section .home-title{
 	position: absolute;
